@@ -10,13 +10,13 @@ The Employees entity is related to the Departments entity with a cardinality 1 D
 
 The API implements the funcionalities:
 
-Create an department
-Create an employee
-Show a department list
-Show a employee list
-Show a list of employees by department
-Delete an employee
-Update an employee
+- Create an department
+- Create an employee
+- Show a department list
+- Show a employee list
+- Show a list of employees by department
+- Delete an employee
+- Update an employee
 
 # configuration will start the embedded Tomcat instance on port 9090. You can change the port as required.
 
