@@ -6,8 +6,6 @@ The following development implements a REST-JSON API that performs the CRUD oper
 
 • Java 8 • Spring MVC • Spring DATA-JPA • Junit4 • Hibernate • Maven • Jackson Library • H2 as a database
 
-The Employees entity is related to the Departments entity with a cardinality 1 Department has N Employees, and 1 Employee belongs to 1 Department.
-
 # The API implements the funcionalities:
 
 - Create an department
@@ -17,6 +15,8 @@ The Employees entity is related to the Departments entity with a cardinality 1 D
 - Show a list of employees by department
 - Delete an employee
 - Update an employee
+
+The Employees entity is related to the Departments entity with a cardinality 1 Department has N Employees, and 1 Employee belongs to 1 Department.
 
 # configuration will start the embedded Tomcat instance on port 9090. You can change the port as required.
 
