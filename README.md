@@ -8,7 +8,7 @@ The following development implements a REST-JSON API that performs the CRUD oper
 
 The Employees entity is related to the Departments entity with a cardinality 1 Department has N Employees, and 1 Employee belongs to 1 Department.
 
-The API implements the funcionalities:
+# The API implements the funcionalities:
 
 - Create an department
 - Create an employee
