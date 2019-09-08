@@ -2,7 +2,7 @@
 
 The following development implements a REST-JSON API that performs the CRUD operations of the Employees entity using Spring MVC, JPA and maven-compiler-plugin.
 
-# it has used the follow tecnologies.
+# It has used the follow tecnologies.
 
 • Java 8 • Spring MVC • Spring DATA-JPA • Junit4 • Hibernate • Maven • Jackson Library • H2 as a database
 
