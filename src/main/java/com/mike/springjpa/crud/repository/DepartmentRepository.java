@@ -1,6 +1,5 @@
 package com.mike.springjpa.crud.repository;
 
-
 import com.mike.springjpa.crud.bean.Department;
 import org.springframework.data.repository.CrudRepository;
 
